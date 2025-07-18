@@ -30,5 +30,5 @@ revealOnScroll();
 
 // Download Resume
 function downloadResume() {
-  window.location.href = "resume.pdf";
+  window.location.href = "Narayana(Manual Testing).pdf";
 }
